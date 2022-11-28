@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Lab00/whattotest.cpp
+whattotest.h
+/root/Lab00/whattotest.h
+
+/root/Lab00/whattotest.h
+vector
+-
+

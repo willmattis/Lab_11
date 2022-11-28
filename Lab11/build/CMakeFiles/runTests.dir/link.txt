@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -DNDEBUG   CMakeFiles/runTests.dir/tests.cpp.o  -o runTests  -Wl,-rpath,/root/Lab00/build /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread libapplibrary.so 

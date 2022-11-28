@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/root/Lab00/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /root/Lab00/main.cpp",
+  "file": "/root/Lab00/main.cpp"
+},
+{
+  "directory": "/root/Lab00/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/runTests.dir/tests.cpp.o -c /root/Lab00/tests.cpp",
+  "file": "/root/Lab00/tests.cpp"
+},
+{
+  "directory": "/root/Lab00/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -O3 -DNDEBUG -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/whattotest.cpp.o -c /root/Lab00/whattotest.cpp",
+  "file": "/root/Lab00/whattotest.cpp"
+}
+]
