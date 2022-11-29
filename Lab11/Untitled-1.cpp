@@ -6,7 +6,7 @@ using namespace std;
 
 int main () 
 {
-    cout << "Using trail 2" ;
+    cout << "New text Using trail 2" ;
     
     cout << "New Code " << endl;
     cout << "Hello World" << endl;
